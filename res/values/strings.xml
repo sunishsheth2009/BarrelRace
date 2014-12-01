@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarrelRace</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Start">Start</string>
+    <string name="Instruction">Instruction</string>
+    <string name="Stop">Stop</string>
+    <string name="EnterName">Please enter your name</string>
+    <string name="fnamehint">Tom</string>
+    <string name="HighScore">High Score</string>
+    <string name="title_activity_high_score">HighScore</string>
+    <string name="title_activity_instruction">Instruction</string>
+    
+    <string name="intro">Introduction:</string>
+    <string name="para1">Barrel Race is a game in which the horse has to go around the barrels without touching them. \nIn this game the horse is represented by the red circle and the barrels are represented by black circles.</string>
+    <string name="how">How to Play:</string>
+    <string name="para2">Tilt your device to move the horse around the barrels to clock the fastest time.\nA collision with the barrel will end the game.\nHowever if the horse collides with the boundary a penalty of 5 seconds would be added to the final score.</string>
+    <string name="start">Let\'s Play!!!</string>
+
+</resources>
